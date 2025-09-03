@@ -1,5 +1,5 @@
 # Implement-classes-and-objects-in-cpp
-## Aim
+## AIM
 Practice creating a user-defined class in C++ and computing the volume of a cube, comparing member functions defined inside and outside the class and demonstrating the role of access specifiers.
 
 Software used: MinGW compiler, Visual Studio Code, online C++ compiler.
